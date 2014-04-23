@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Seiei Higa"]
   spec.email         = ["hanachin@gmail.com"]
   spec.summary       = %q{convert number to github emoji number}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hanachin/emnm"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
